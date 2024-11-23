@@ -8,7 +8,7 @@
 
 | Notebook  | Info |
 | ------------- |:-------------:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucipherDev/Flux.1-dev-ControlNet-jupyter/blob/main/Flux.1-dev-XLabs_CN-jupyter.ipynb)      | Flux.1-dev-XLabs_CN-jupyter ([flux1-dev-Q4_1.gguf](https://huggingface.co/city96/FLUX.1-dev-gguf/blob/main/flux1-dev-Q4_1.gguf)) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucipherDev/Flux.1-dev-ControlNet-jupyter/blob/main/Flux.1-dev-XLabs_CN-jupyter.ipynb)      | Flux.1-dev-XLabs_CN-jupyter ([flux1-dev-Q4_K_S.gguf](https://huggingface.co/city96/FLUX.1-dev-gguf/blob/main/flux1-dev-Q4_K_S.gguf)) |
 
 ###### * *This is still unstable in google colab free tier and prone to crashing because of low system RAM. Use at your own risk.*
 
